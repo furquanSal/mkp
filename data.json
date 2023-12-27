@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "foodName": "Beef Tacos",
+                "foodDesc": "Indulge in our mouth-watering beef tacos – perfectly seasoned, grilled to perfection, and topped with a flavourful blend of fresh ingredients—a symphony of savory goodness in every bite. Taste the taco perfection!",
+                "foodCost": 8.99,
+                "foodRatings": 4.8,
+                "createdAt": "2023-12-19T22:24:32.811Z",
+                "updatedAt": "2023-12-19T22:28:20.164Z",
+                "publishedAt": "2023-12-19T22:24:42.729Z",
+                "foodImage": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 259,
+                            "height": 194,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_download.jpg",
+                                    "hash": "thumbnail_download_3f41b828a3",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 208,
+                                    "height": 156,
+                                    "size": 12.17,
+                                    "url": "https://res.cloudinary.com/de1o23gzw/image/upload/v1703024441/thumbnail_download_3f41b828a3.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_3f41b828a3",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_3f41b828a3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 13.3,
+                            "url": "https://res.cloudinary.com/de1o23gzw/image/upload/v1703024441/download_3f41b828a3.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_3f41b828a3",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-19T22:20:41.927Z",
+                            "updatedAt": "2023-12-19T22:20:41.927Z"
+                        }
+                    }
+                },
+                "Menu": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "category": "Spice",
+                                "createdAt": "2023-12-19T21:59:48.525Z",
+                                "updatedAt": "2023-12-19T21:59:56.186Z",
+                                "publishedAt": "2023-12-19T21:59:55.682Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
+
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "foodName": "Beef Tacos",
+                "foodDesc": "Indulge in our mouth-watering beef tacos – perfectly seasoned, grilled to perfection, and topped with a flavourful blend of fresh ingredients—a symphony of savory goodness in every bite. Taste the taco perfection!",
+                "foodCost": 8.99,
+                "foodRatings": 4.8,
+                "createdAt": "2023-12-19T22:24:32.811Z",
+                "updatedAt": "2023-12-19T22:28:20.164Z",
+                "publishedAt": "2023-12-19T22:24:42.729Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
